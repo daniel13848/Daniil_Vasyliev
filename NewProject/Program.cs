@@ -1,7 +1,6 @@
-﻿namespace NewProject
+﻿using System;
+namespace NewProject
 {
-    using System;
-
     /// <summary>
     /// Start Point.
     /// </summary>
